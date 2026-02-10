@@ -2,7 +2,7 @@
 
 ---
 
-# Advanced Multivariate Data Visualization
+# Implementation Of Multivariate Dislays
 
 **Name:** Swetha P  
 **Roll Number:** 23BAD119  
