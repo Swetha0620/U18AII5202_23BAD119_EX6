@@ -2,7 +2,7 @@
 
 ---
 
-# Implementation Of Multivariate Dislays
+# Implementation Of Multivariate Displays
 
 **Name:** Swetha P  
 **Roll Number:** 23BAD119  
